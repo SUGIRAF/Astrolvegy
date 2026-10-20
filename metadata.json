@@ -1,0 +1,6 @@
+{
+  "name": "Astrolovegy - Dating Berbasis Astrologi & Zodiak",
+  "description": "Aplikasi kencan berbasis astrologi dan sinastri zodiak akurat dengan estetika hangat romantik untuk menemukan belahan jiwa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
